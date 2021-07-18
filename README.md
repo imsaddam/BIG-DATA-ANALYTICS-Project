@@ -1,13 +1,14 @@
 # BIG-DATA-ANALYTICS-Project
 
 # BIG DATA ANALYTICS
-# Prof. Dr. Martin Theobald & Dr. Vinu Venugopal
-# Summer Semester 2019 - 20
-# University of Luxembourg
+### Prof. Dr. Martin Theobald & Dr. Vinu Venugopal
+### Summer Semester 2019 - 20
+### University of Luxembourg
+
 # Final Project
 
 # Submitted By
-# Saddam Hossain 
+### Saddam Hossain 
 
 # Instructions:
 1. I have added all the source code to my final project folder .
@@ -18,7 +19,7 @@ files, python files, report, video presentation and data sources
 5. I have compiled all the code on databricks cluster . So execution
 may vary when you test my code .
 ## Title
-# Coronavirus ( COVID-19 ) Data Visualization Using Pyspark
+### Coronavirus ( COVID-19 ) Data Visualization Using Pyspark
 
 
 # Abstract

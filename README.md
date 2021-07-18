@@ -1,6 +1,6 @@
 # BIG-DATA-ANALYTICS-Project
 
-# BIG DATA ANALYTICS
+
 ### Prof. Dr. Martin Theobald & Dr. Vinu Venugopal
 ### Summer Semester 2019 - 20
 ### University of Luxembourg
